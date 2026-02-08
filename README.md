@@ -1,4 +1,4 @@
 # omsrivastava
 This is my first Git Repository
 <br>
-Author- Om Srivastava
+Author- Om Srivastava(srivas)
